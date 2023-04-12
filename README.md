@@ -14,9 +14,11 @@ Experimentos mostram que os seres humanos têm 97,53% de precisão em tarefas de
 ---
 # Imagens
 <p>Dentro do projeto foram utilizadas essas imagens, todas foram retiradas da web e não possuem restrição de direitos autorais.</p>
+<centralize>
 <img src='img1.jpg' width='270px' height='240px'>
 <img src='img2.jpg' width='270px' height='240px'>
 <img src='img3.jpg' width='270px' height='240px'>
+</centralize>
 
 ---
 # Considerações
